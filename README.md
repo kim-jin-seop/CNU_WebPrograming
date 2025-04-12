@@ -1,6 +1,5 @@
 # WebPrograming_Study
 #### 2018년 봄학기 웹프로그래밍
-#### 유정연 교수님
 ---------------------------
 ## Self-introduction
 - HTML, CSS  
@@ -16,4 +15,4 @@
 
 ## FootBall_Matching_System
 - JSP, CSS, java script, html
-- 충남대학교 풋살매칭 웹페이지 개발
+- 풋살매칭 웹페이지 개발
